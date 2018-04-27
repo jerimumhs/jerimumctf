@@ -1,0 +1,1 @@
+STARTUPDAY{Robots_method_win}
