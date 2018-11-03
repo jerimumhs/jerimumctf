@@ -4,7 +4,7 @@ define('HOST', 'localhost');
 define('USER', 'root');
 define('PASS', '');
 define('DB', 'sucurihc_ctf');
-define('TITULO', 'StartupDay');
+define('TITULO', 'JampaSec 2018');
 
 date_default_timezone_set('America/Sao_Paulo');
 //CONFIGURAÇÕES DO SITE
